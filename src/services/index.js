@@ -10,6 +10,7 @@ const API={
     getNewBlog,
     postNewsBlog,
     deleteNewsBlog
+    
 }
 
 export default API;
